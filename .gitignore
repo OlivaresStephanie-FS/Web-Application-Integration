@@ -1,0 +1,29 @@
+# Dependencies and environment files
+node_modules/
+.env
+.DS_Store
+
+# Practice work
+**/Practice/
+**/Practice/**
+
+# Course materials
+*.mp4
+*.mov
+*.vtt
+*.pdf
+*.xlsx
+*.docx
+
+# Keeping only assignments from each module
+/Module_1/*
+!/Module_1/Assignment/
+
+/Module_2/*
+!/Module_2/Assignment/
+
+/Module_3/*
+!/Module_3/Assignment/
+
+/Module_4/*
+!/Module_4/Assignment/
