@@ -15,11 +15,31 @@ Created a JavaScript function that obscures credit card numbers while keeping th
 - Includes positive and negative tests.
 - All 6 unit tests passed.
 
+### Module 2 – Integration Testing
+
+Used Postman to test GET, POST, PATCH, and DELETE routes from a provided backend.
+
+- Tested status codes, response messages, payload data, and metadata.
+- Saved all requests in one Postman collection.
+- All 15 integration tests passed.
+
+### Module 2 – Selenium Testing
+
+Used Selenium WebDriver to automate browser testing on a provided Next.js application.
+
+- Verified the Home page title.
+- Verified the Contact Us page title.
+- Tested the email signup interaction and response message.
+- All 3 Selenium tests passed.
+
 ## 🛠️ Technologies
 
 - JavaScript
 - Node.js
 - Jest
+- Postman
+- Selenium WebDriver
+- Next.js
 - Git & GitHub
 
 ## 🚀 Getting Started

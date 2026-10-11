@@ -1,0 +1,5 @@
+node_modules/
+.next
+.DS_Store
+demo.test.js
+/Module_2/Assignment/Integration-Testing/
